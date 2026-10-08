@@ -1,0 +1,6 @@
+print("Hello World")
+print("Zdraveite Svqt")
+print("Hola Mundo")
+print("Hello Vilag")
+print("Bonjour Monde")
+print("Zdravo Svetu")
