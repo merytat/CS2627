@@ -15,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="cachedIndexableFilesCount" value="17" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -34,61 +34,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000109841618" />
-      <entry key="MS500" value="1.0263447604534743" />
-      <entry key="S2" value="1.6807106485407906" />
-      <entry key="S5" value="3.163258185864924" />
-      <entry key="S10" value="5.004014718318293" />
-      <entry key="S30" value="9.74996344055157" />
-      <entry key="S60" value="14.27976074432125" />
-      <entry key="M2" value="18.946603215350006" />
-      <entry key="M5" value="27.913171547451867" />
-      <entry key="M10" value="49.64090171487503" />
-      <entry key="M15" value="72.30325434984755" />
-      <entry key="M30" value="126.0008932109339" />
-      <entry key="H1" value="187.1446763954866" />
-      <entry key="H2" value="238.86152353985273" />
-      <entry key="H4" value="273.72938252407" />
-      <entry key="D1" value="309.10551217064284" />
-      <entry key="W1" value="315.85400904355544" />
+      <entry key="MS100" value="1.0000063712152056" />
+      <entry key="MS500" value="1.091378590525002" />
+      <entry key="S2" value="1.5498477328161355" />
+      <entry key="S5" value="1.8070623090448756" />
+      <entry key="S10" value="2.1032595645543672" />
+      <entry key="S30" value="3.793493439876589" />
+      <entry key="S60" value="5.6500485916029035" />
+      <entry key="M2" value="7.400154568957791" />
+      <entry key="M5" value="13.464503307750212" />
+      <entry key="M10" value="36.07560783795518" />
+      <entry key="M15" value="62.73847025952424" />
+      <entry key="M30" value="132.93949670063856" />
+      <entry key="H1" value="220.5674944945956" />
+      <entry key="H2" value="299.7174362572229" />
+      <entry key="H4" value="355.4268274913447" />
+      <entry key="D1" value="413.74809921539975" />
+      <entry key="W1" value="425.0710631900572" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.788499856862624E-145" />
-      <entry key="MS500" value="1.3678544755467036E-29" />
-      <entry key="S2" value="6.081489846004761E-8" />
-      <entry key="S5" value="0.001300216020730451" />
-      <entry key="S10" value="0.0371511396224121" />
-      <entry key="S30" value="0.4338502375790074" />
-      <entry key="S60" value="0.8964964221205036" />
-      <entry key="M2" value="1.325665135781684" />
-      <entry key="M5" value="1.7320278404020548" />
-      <entry key="M10" value="2.073508577299873" />
-      <entry key="M15" value="2.4546024300834666" />
-      <entry key="M30" value="4.026932235582435" />
-      <entry key="H1" value="6.7478350916305825" />
-      <entry key="H2" value="9.482289527983152" />
-      <entry key="H4" value="11.455983359068517" />
-      <entry key="D1" value="13.529610225930238" />
-      <entry key="W1" value="13.931564575489409" />
+      <entry key="MS100" value="2.4413472923874E-227" />
+      <entry key="MS500" value="4.759111860861885E-46" />
+      <entry key="S2" value="4.670694674755268E-12" />
+      <entry key="S5" value="2.9359766094025946E-5" />
+      <entry key="S10" value="0.005418465289547027" />
+      <entry key="S30" value="0.17564081026987788" />
+      <entry key="S60" value="0.41910363272563345" />
+      <entry key="M2" value="0.6547863135430452" />
+      <entry key="M5" value="1.398664161563385" />
+      <entry key="M10" value="3.4725217210536097" />
+      <entry key="M15" value="5.312147474393645" />
+      <entry key="M30" value="9.139737812187212" />
+      <entry key="H1" value="13.636890933852328" />
+      <entry key="H2" value="17.864135812131483" />
+      <entry key="H4" value="20.942630091926713" />
+      <entry key="D1" value="24.241191678509807" />
+      <entry key="W1" value="24.8893516354186" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7578582935750688" />
-      <entry key="MS500" value="0.9720463322157537" />
-      <entry key="S2" value="1.662673113482985" />
-      <entry key="S5" value="3.1495023437754073" />
-      <entry key="S10" value="4.997387833314665" />
-      <entry key="S30" value="10.04995774919361" />
-      <entry key="S60" value="15.040403203391001" />
-      <entry key="M2" value="20.171423671153896" />
-      <entry key="M5" value="29.58874818379548" />
-      <entry key="M10" value="51.67345244672929" />
-      <entry key="M15" value="74.72113481470745" />
-      <entry key="M30" value="129.996120851487" />
-      <entry key="H1" value="193.86811827574377" />
-      <entry key="H2" value="248.3278985698229" />
-      <entry key="H4" value="285.1761529119445" />
-      <entry key="D1" value="322.6333753290661" />
-      <entry key="W1" value="329.78531829041066" />
+      <entry key="MS100" value="0.01059848580187309" />
+      <entry key="MS500" value="0.42981641319686437" />
+      <entry key="S2" value="1.2022337660000724" />
+      <entry key="S5" value="1.6281183869445917" />
+      <entry key="S10" value="2.0019615428417454" />
+      <entry key="S30" value="3.8578411787693643" />
+      <entry key="S60" value="5.94334045434261" />
+      <entry key="M2" value="7.953378934638246" />
+      <entry key="M5" value="14.800783766159089" />
+      <entry key="M10" value="39.49660247780153" />
+      <entry key="M15" value="68.00229043740126" />
+      <entry key="M30" value="142.03701462276308" />
+      <entry key="H1" value="234.17152521634057" />
+      <entry key="H2" value="317.5596849954489" />
+      <entry key="H4" value="376.3565756542521" />
+      <entry key="D1" value="437.9868048028767" />
+      <entry key="W1" value="449.96005026126824" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -105,8 +105,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Division.executor": "Run",
     "Python.Extra8.executor": "Run",
+    "Python.GraphicsTest.executor": "Run",
     "Python.HalfofEvens.executor": "Run",
     "Python.Monogram.executor": "Run",
+    "Python.Wedo1.executor": "Run",
     "Python.Wedo4.executor": "Run",
     "Python.randomNums.executor": "Run",
     "Python.testing.executor": "Run",
@@ -125,7 +127,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.randomNums">
+  <component name="RunManager" selected="Python.Wedo1">
     <configuration name="Division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS2627" />
       <option name="ENV_FILES" value="" />
@@ -151,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Extra8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GraphicsTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS2627" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +169,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1/Extra8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1/GraphicsTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wedo4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Wedo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS2627" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,14 +212,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1/Wedo4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit2/Wedo1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Wedo1" />
+        <item itemvalue="Python.GraphicsTest" />
         <item itemvalue="Python.randomNums" />
         <item itemvalue="Python.Division" />
         <item itemvalue="Python.HalfofEvens" />
-        <item itemvalue="Python.Wedo4" />
-        <item itemvalue="Python.Extra8" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +286,8 @@
       <workItem from="1790590684683" duration="4894000" />
       <workItem from="1790756161824" duration="2286000" />
       <workItem from="1790854183777" duration="2204000" />
+      <workItem from="1793045026333" duration="361000" />
+      <workItem from="1793263498658" duration="2479000" />
     </task>
     <servers />
   </component>
@@ -314,5 +318,7 @@
     <SUITE FILE_PATH="coverage/CS2627$testing.coverage" NAME="testing Coverage Results" MODIFIED="1789028101064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CS2627$Division.coverage" NAME="Division Coverage Results" MODIFIED="1790854725414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit1" />
     <SUITE FILE_PATH="coverage/CS2627$HalfofEvens.coverage" NAME="HalfofEvens Coverage Results" MODIFIED="1790756537617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit1" />
+    <SUITE FILE_PATH="coverage/CS2627$GraphicsTest.coverage" NAME="GraphicsTest Coverage Results" MODIFIED="1793045311202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit1" />
+    <SUITE FILE_PATH="coverage/CS2627$Wedo1.coverage" NAME="Wedo1 Coverage Results" MODIFIED="1793265230310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit2" />
   </component>
 </project>
